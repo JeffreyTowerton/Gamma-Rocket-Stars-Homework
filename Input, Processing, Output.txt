@@ -1,0 +1,16 @@
+Input for grocery store inventory systems:
+
+Objects:
+Items coming in
+Items going out.
+Vendor receiving items from.
+customer selling items to.
+Running inventory of items on hand.
+
+Processes:
+Receive items into inventory.
+Sell items out of inventory.
+
+outputs:
+invoices for sales
+receipts/Bill of Lading's for incoming items

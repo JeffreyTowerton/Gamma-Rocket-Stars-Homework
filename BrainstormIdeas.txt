@@ -1,0 +1,20 @@
+Requirements--
+	create a program that could be a part of a system.
+	creation of design documents.
+	collaboration between all members of the party.
+	some sort of implementation that could be used in a real-world scenario.
+	Documents that deatil upkeep on the system once constructed. This could include README files, in-code comments, or even an end user manual.
+	
+Professional development library.	
+
+
+MMO Videogame backend- probably either web based, or written in Java/C++. Would have methods to handle transactions between two players or between a player and an NPC, monitor items in Inventory, and create logs of all transactions.
+
+Library System, for keeping track of a number of design documents or books. Would handle checking in and checking out documents, as well as keeping track of who had the documents, and any late fees, fines, etc.
+
+Selected-- Grocery store inventory and sales system. Would keep track of store inventory, and handle transactions between the store and vendors, and between the store and customers.
+
+E-commerce website and backend. Would handle sales to customers, inventory aqcuisition from vendors, as well as collecting information such as shipping addresses and tax information for billing.
+
+HR backend, would handle tracking number of hours worked by employees, 
+
